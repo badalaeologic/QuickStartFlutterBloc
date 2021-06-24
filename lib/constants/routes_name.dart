@@ -1,0 +1,1 @@
+const LoginRoutePage = "login";const HomeRoutePage = "home";const SplashRoutePage = "splash";
